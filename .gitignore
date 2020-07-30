@@ -1,0 +1,8 @@
+figures/
+*pyc
+data/
+data/input
+notebooks/
+.ipynb_checkpoints/
+helper/
+TODO.txt
